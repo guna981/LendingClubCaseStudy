@@ -12,12 +12,19 @@ The main aim of the analysis was driving factors (or driver variables) behind l
 
 ## Table of Contents
 Step 1: Understanding about data
+
 Step 2: Data Cleaning
+
 Step 3: Univariate Analysis
+
 Step 4: Bivaraiate/Multivariate Analysis
+
 Step 5: Results
 
+
+
 Contributors:
+
   Gunavardhani
   
   Palomi
